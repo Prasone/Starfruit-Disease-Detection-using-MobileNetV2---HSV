@@ -416,11 +416,6 @@ graph LR
 - 💾 Kurangi ukuran model dengan pruning
 - 🎯 Fine-tune dengan dataset spesifik Anda
 
----
-
-## 📝 License
-
-Project ini dilisensikan di bawah [MIT License](LICENSE).
 
 ---
 
@@ -432,12 +427,6 @@ Kontribusi sangat diterima! Silakan:
 3. Commit changes (`git commit -m 'Add AmazingFeature'`)
 4. Push ke branch (`git push origin feature/AmazingFeature`)
 5. Buat Pull Request
-
----
-
-## 📧 Support & Contact
-
-Jika ada pertanyaan atau issue, silakan buka [GitHub Issues](../../issues).
 
 ---
 
